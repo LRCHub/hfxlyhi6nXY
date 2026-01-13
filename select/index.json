@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天才なのかもしれない",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2026-01-13T18:08:38.278099Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天才なのかもしれない",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_天才なのかもしれない_みらくらぱーく!.txt"
+    }
+  ]
+}
